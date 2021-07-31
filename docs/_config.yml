@@ -1,12 +1,12 @@
-title: "SIADS697 Project Documentation"
-description: "Documenting procedures and results related to MADS Capstone Project."
+title: "AI4ALL NHANES Project Documentation"
+description: "Applying Machine Learning to Identify Depression with NHANES data."
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
   "GitHub Repository":
-    - "https://github.com/albemlee/siads697"
+    - "https://github.com/isabelle926/ai4all_nhanes"
 aux_links_new_tab: true
 markdown: kramdown
 back_to_top: true
 back_to_top_text: "Back to top"
-footer_content: "For more information about the project, you may reach out to <a href=\"jcreigh@umich.edu\">Jim Creighton</a>, <a href=\"albemlee@umich.edu\">Albert Lee</a>m or <a href=\"jcreigh@umich.edu\"><a href=\"maxts@umich.edu\">Max Tsisyk</a></a>"
+footer_content: "For more information about the project, you may reach out to <a href=\"albemlee@umich.edu\">Albert Lee</a>m, <a href=\"kai5107031882@gmail.com\">Loren Hung</a>, <a href=\"helenliu583@gmail.com\">Helen Liu</a>, <a href=\"gunawanisabelle@gmail.com\">Isabelle Gunawan</a>, <a href=\"srinidhijay10@gmail.com\">Srinidhi Jayaprakash</a>, or <a href=\"cyg2123@gmail.com\">Michael Gallup</a>"
