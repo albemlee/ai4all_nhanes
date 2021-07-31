@@ -9,6 +9,11 @@ permalink: /getting_started/setup_virtual_environment/
 has_toc: false
 ---
 
+# Setup Instructions
+- Clone Repo from GitHub
+- **Setup Virtual Environment**
+- Run Data Pipeline
+
 # Setup Environment
 Next, you'll need to setup a virtual environment. In command line, we'll create a new virtual environment called *env*:
 ```
