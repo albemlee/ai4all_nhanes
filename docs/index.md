@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # About this Page
+{: .no_toc }
 Add some info about the page
 
 [View GitHub Repository](https://github.com/isabelle926/ai4all_nhanes){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
