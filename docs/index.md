@@ -8,7 +8,7 @@ permalink: /
 
 # About this Page
 {: .no_toc }
-Add some info about the page
+This page contains an overview of what you will find on this site.
 
 [View GitHub Repository](https://github.com/isabelle926/ai4all_nhanes){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
 
@@ -22,6 +22,12 @@ Add some info about the page
 </details>
 
 ---
+
+## Table of Contents
+- Home
+- Getting Started
+- About The Project
+- Contributions
 
 ## Contributors
 
