@@ -1,6 +1,7 @@
 # Contributors
 
 - Albert Lee (albert.lee8@ucsf.edu)
+- Sonica Prakash
 - Srinidhi Jayaprakash (srinidhijay10@gmail.com)
 - Helen Liu (helenliu583@gmail.com)
 - Isabelle Gunawan (gunawanisabelle@gmail.com)
